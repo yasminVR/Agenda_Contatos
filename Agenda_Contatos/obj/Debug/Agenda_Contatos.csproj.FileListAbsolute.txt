@@ -1,0 +1,10 @@
+C:\Users\yasmin.vrodrigues1\source\repos\Agenda_Contatos\Agenda_Contatos\bin\Debug\Agenda_Contatos.exe.config
+C:\Users\yasmin.vrodrigues1\source\repos\Agenda_Contatos\Agenda_Contatos\bin\Debug\Agenda_Contatos.exe
+C:\Users\yasmin.vrodrigues1\source\repos\Agenda_Contatos\Agenda_Contatos\bin\Debug\Agenda_Contatos.pdb
+C:\Users\yasmin.vrodrigues1\source\repos\Agenda_Contatos\Agenda_Contatos\obj\Debug\Agenda_Contatos.csproj.AssemblyReference.cache
+C:\Users\yasmin.vrodrigues1\source\repos\Agenda_Contatos\Agenda_Contatos\obj\Debug\Agenda_Contatos.Form1.resources
+C:\Users\yasmin.vrodrigues1\source\repos\Agenda_Contatos\Agenda_Contatos\obj\Debug\Agenda_Contatos.Properties.Resources.resources
+C:\Users\yasmin.vrodrigues1\source\repos\Agenda_Contatos\Agenda_Contatos\obj\Debug\Agenda_Contatos.csproj.GenerateResource.cache
+C:\Users\yasmin.vrodrigues1\source\repos\Agenda_Contatos\Agenda_Contatos\obj\Debug\Agenda_Contatos.csproj.CoreCompileInputs.cache
+C:\Users\yasmin.vrodrigues1\source\repos\Agenda_Contatos\Agenda_Contatos\obj\Debug\Agenda_Contatos.exe
+C:\Users\yasmin.vrodrigues1\source\repos\Agenda_Contatos\Agenda_Contatos\obj\Debug\Agenda_Contatos.pdb
